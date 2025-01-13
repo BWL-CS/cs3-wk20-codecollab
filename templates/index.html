@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+		<title>School Directory App</title>
+</head>
+<body>
+		<h1>Welcome to Our School Directory!</h1>
+		{% for member in staff_members %}
+				<hr>
+				<div>
+						<p><strong>Name:</strong> {{ member.name }}</p>
+						<p><strong>Role:</strong> {{ member.role }}</p>
+				</div>
+		{% endfor %}
+</body>
+</html>
