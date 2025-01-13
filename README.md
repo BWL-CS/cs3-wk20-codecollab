@@ -2,6 +2,8 @@
 
 This repository provides the **working program** for this week's **CodeCollab homework assignment**. 
 
+![](RunningFlask.png)
+
 ### Instructions
 
 1. Click `FORK` to make your own copy of the repo. You do not need to edit anything in the "Create a new fork" menu that comes up, just click `Create Fork`. _Forking a repository allows you to freely experiment with changes without affecting the original project._
