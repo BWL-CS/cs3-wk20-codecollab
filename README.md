@@ -1,4 +1,4 @@
-# CS3 Wk18 CodeCollab
+# CS3 Wk20 CodeCollab
 
 This repository provides the **working program** for this week's **CodeCollab homework assignment**. 
 
